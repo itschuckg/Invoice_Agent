@@ -1,0 +1,86 @@
+{
+  "purchase_orders": [
+    {
+      "po_number": "PO-5001",
+      "vendor_id": "V-1001",
+      "currency": "CAD",
+      "lines": [
+        {"description": "A4 paper, 5000 sheets", "quantity": "10", "unit_price": "45.00", "line_total": "450.00"},
+        {"description": "Ballpoint pens, box of 50", "quantity": "4", "unit_price": "12.50", "line_total": "50.00"}
+      ],
+      "total": "500.00",
+      "status": "open"
+    },
+    {
+      "po_number": "PO-5002",
+      "vendor_id": "V-1002",
+      "currency": "CAD",
+      "lines": [
+        {"description": "Freight Toronto-Halifax", "quantity": "1", "unit_price": "1800.00", "line_total": "1800.00"}
+      ],
+      "total": "1800.00",
+      "status": "open"
+    },
+    {
+      "po_number": "PO-5003",
+      "vendor_id": "V-1003",
+      "currency": "CAD",
+      "lines": [
+        {"description": "Monthly office cleaning", "quantity": "1", "unit_price": "2400.00", "line_total": "2400.00"}
+      ],
+      "total": "2400.00",
+      "status": "open"
+    },
+    {
+      "po_number": "PO-5004",
+      "vendor_id": "V-1004",
+      "currency": "CAD",
+      "lines": [
+        {"description": "Brochure printing, 1000 units", "quantity": "1", "unit_price": "850.00", "line_total": "850.00"}
+      ],
+      "total": "850.00",
+      "status": "open"
+    },
+    {
+      "po_number": "PO-5005",
+      "vendor_id": "V-1005",
+      "currency": "CAD",
+      "lines": [
+        {"description": "Team offsite catering", "quantity": "1", "unit_price": "8500.00", "line_total": "8500.00"}
+      ],
+      "total": "8500.00",
+      "status": "open"
+    }
+  ],
+  "goods_receipts": [
+    {
+      "po_number": "PO-5001",
+      "received_on": "2026-05-10",
+      "lines": [
+        {"description": "A4 paper, 5000 sheets", "quantity": "10", "unit_price": "45.00", "line_total": "450.00"},
+        {"description": "Ballpoint pens, box of 50", "quantity": "4", "unit_price": "12.50", "line_total": "50.00"}
+      ]
+    },
+    {
+      "po_number": "PO-5002",
+      "received_on": "2026-05-12",
+      "lines": [
+        {"description": "Freight Toronto-Halifax", "quantity": "1", "unit_price": "1800.00", "line_total": "1800.00"}
+      ]
+    },
+    {
+      "po_number": "PO-5003",
+      "received_on": "2026-05-01",
+      "lines": [
+        {"description": "Monthly office cleaning", "quantity": "1", "unit_price": "2400.00", "line_total": "2400.00"}
+      ]
+    },
+    {
+      "po_number": "PO-5004",
+      "received_on": "2026-05-09",
+      "lines": [
+        {"description": "Brochure printing, 1000 units", "quantity": "1", "unit_price": "850.00", "line_total": "850.00"}
+      ]
+    }
+  ]
+}

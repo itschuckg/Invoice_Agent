@@ -1,0 +1,15 @@
+{
+  "invoice_number": "NW-2026-0501",
+  "invoice_date": "2026-05-15",
+  "supplier_name": "Northwind Office Supplies Inc",
+  "supplier_tax_id": "123456789RT0001",
+  "po_reference": null,
+  "currency": "CAD",
+  "subtotal": "120.00",
+  "tax": "18.00",
+  "total": "138.00",
+  "bank_account": "CA-RBC-1234567",
+  "lines": [
+    {"description": "Rush order: presentation folders", "quantity": "10", "unit_price": "12.00", "line_total": "120.00"}
+  ]
+}

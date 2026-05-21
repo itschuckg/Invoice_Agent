@@ -1,0 +1,6 @@
+{"invoice_id": "INV-001", "expected_route": "erp_auto_post", "scenario": "clean three-way match"}
+{"invoice_id": "INV-002", "expected_route": "fraud_review", "scenario": "bank account changed from vendor master"}
+{"invoice_id": "INV-003", "expected_route": "approver_inbox", "scenario": "math mismatch (subtotal + tax ≠ total)"}
+{"invoice_id": "INV-004", "expected_route": "approver_inbox", "scenario": "amount above auto-approve threshold"}
+{"invoice_id": "INV-005", "expected_route": "approver_inbox", "scenario": "no PO referenced"}
+{"invoice_id": "INV-006", "expected_route": "fraud_review", "scenario": "sanctions hit + unknown supplier"}

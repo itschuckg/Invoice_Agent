@@ -1,0 +1,16 @@
+{
+  "invoice_number": "NW-2026-0412",
+  "invoice_date": "2026-05-14",
+  "supplier_name": "Northwind Office Supplies Inc",
+  "supplier_tax_id": "123456789RT0001",
+  "po_reference": "PO-5001",
+  "currency": "CAD",
+  "subtotal": "500.00",
+  "tax": "75.00",
+  "total": "575.00",
+  "bank_account": "CA-RBC-1234567",
+  "lines": [
+    {"description": "A4 paper, 5000 sheets", "quantity": "10", "unit_price": "45.00", "line_total": "450.00"},
+    {"description": "Ballpoint pens, box of 50", "quantity": "4", "unit_price": "12.50", "line_total": "50.00"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "invoice_number": "SH-2026-9912",
+  "invoice_date": "2026-05-08",
+  "supplier_name": "Shadowfall Holdings",
+  "supplier_tax_id": "111111111RT0001",
+  "po_reference": null,
+  "currency": "USD",
+  "subtotal": "1500.00",
+  "tax": "0.00",
+  "total": "1500.00",
+  "bank_account": "OFFSHORE-XX-77777777",
+  "lines": [
+    {"description": "Consulting services", "quantity": "1", "unit_price": "1500.00", "line_total": "1500.00"}
+  ]
+}

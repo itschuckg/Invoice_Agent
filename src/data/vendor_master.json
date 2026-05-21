@@ -1,0 +1,42 @@
+[
+  {
+    "vendor_id": "V-1001",
+    "name": "Northwind Office Supplies Inc",
+    "tax_id": "123456789RT0001",
+    "bank_account_on_file": "CA-RBC-1234567",
+    "active": true,
+    "onboarded_on": "2019-03-15"
+  },
+  {
+    "vendor_id": "V-1002",
+    "name": "Maple Leaf Logistics Ltd",
+    "tax_id": "987654321RT0001",
+    "bank_account_on_file": "CA-TD-9876543",
+    "active": true,
+    "onboarded_on": "2020-07-22"
+  },
+  {
+    "vendor_id": "V-1003",
+    "name": "Atlantic Cleaning Services",
+    "tax_id": "555666777RT0001",
+    "bank_account_on_file": "CA-BNS-5556667",
+    "active": true,
+    "onboarded_on": "2021-11-04"
+  },
+  {
+    "vendor_id": "V-1004",
+    "name": "Nova Print and Design",
+    "tax_id": "222333444RT0001",
+    "bank_account_on_file": "CA-RBC-2223334",
+    "active": true,
+    "onboarded_on": "2018-01-10"
+  },
+  {
+    "vendor_id": "V-1005",
+    "name": "Halifax Catering Co",
+    "tax_id": "888999000RT0001",
+    "bank_account_on_file": "CA-CIBC-8889990",
+    "active": true,
+    "onboarded_on": "2022-05-30"
+  }
+]

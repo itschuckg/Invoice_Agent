@@ -1,0 +1,15 @@
+{
+  "invoice_number": "ML-2026-0233",
+  "invoice_date": "2026-05-13",
+  "supplier_name": "Maple Leaf Logistics Ltd",
+  "supplier_tax_id": "987654321RT0001",
+  "po_reference": "PO-5002",
+  "currency": "CAD",
+  "subtotal": "1800.00",
+  "tax": "270.00",
+  "total": "2070.00",
+  "bank_account": "OFFSHORE-XX-99999999",
+  "lines": [
+    {"description": "Freight Toronto-Halifax", "quantity": "1", "unit_price": "1800.00", "line_total": "1800.00"}
+  ]
+}

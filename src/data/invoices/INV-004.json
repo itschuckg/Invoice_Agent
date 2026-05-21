@@ -1,0 +1,15 @@
+{
+  "invoice_number": "HC-2026-018",
+  "invoice_date": "2026-05-11",
+  "supplier_name": "Halifax Catering Co",
+  "supplier_tax_id": "888999000RT0001",
+  "po_reference": "PO-5005",
+  "currency": "CAD",
+  "subtotal": "8500.00",
+  "tax": "1275.00",
+  "total": "9775.00",
+  "bank_account": "CA-CIBC-8889990",
+  "lines": [
+    {"description": "Team offsite catering", "quantity": "1", "unit_price": "8500.00", "line_total": "8500.00"}
+  ]
+}
